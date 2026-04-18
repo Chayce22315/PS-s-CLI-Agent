@@ -1,0 +1,3 @@
+#!/bin/sh
+# POSIX: runs under ash (Alpine), dash, bash, and zsh.
+printf '%s\n' 'testing completed!'
